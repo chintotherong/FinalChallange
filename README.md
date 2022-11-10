@@ -281,7 +281,6 @@ def pat1():
 ```
 ![GUI](diagram/gui_sequence_pattern.jpg)
 
-
 Code for **PATTERN 2** Function. 
 ```
 def pat2():
@@ -301,7 +300,6 @@ def pat2():
         value[i][j] = 90 
 ```
 ![GUI](diagram/gui_x_pattern.jpg)
-
 
 # Send Button 
 There are different values for each shade of grey, 
